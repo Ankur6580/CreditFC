@@ -1,6 +1,4 @@
-## Credit Card - Page UI by [Ankur6580 (@FRONTCODER_Ankur)](www.youtube.com/@FRONTCODER_Ankur)
-
-
+## Credit Card - Page UI by Ankur6580  [(YouTube @ FRONTCODER_Ankur)](https://youtube.com/@FRONTCODER_Ankur)
 ---
 
 | Inspired by [Dstudio Tech](https://dribbble.com/dstudiotech) on [dribbble](https://dribbble.com/) | *Design link : [click here](https://dribbble.com/shots/23017910-Web-UI)* |
